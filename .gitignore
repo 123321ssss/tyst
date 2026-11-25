@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+*$py.class
+.Python
+test_output/
+extracted/
+preview/
+~$*.docx
+*.tmp
+*.fntmp
+*.oletmp
+.DS_Store
+Thumbs.db

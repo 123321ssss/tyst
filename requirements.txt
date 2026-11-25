@@ -1,0 +1,6 @@
+python-docx>=1.1.0
+lxml>=4.9.0
+Pillow>=10.0.0
+pymupdf>=1.24.0
+latex2mathml>=3.77.0
+pywin32>=306; sys_platform == "win32"

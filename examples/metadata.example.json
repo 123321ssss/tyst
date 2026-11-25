@@ -1,0 +1,33 @@
+{
+  "degree_level": "master",
+  "degree_type": "academic",
+  "discipline": "science",
+  "language": "zh",
+  "bilingual_captions": false,
+  "h1_align": "center",
+
+  "title_zh": "基于多模态感知的复杂装备智能检测关键技术研究",
+  "title_en": "Research on Key Technologies of Intelligent Inspection for Complex Equipment Based on Multimodal Perception",
+  "author_zh": "张三",
+  "author_en": "Zhang San",
+  "supervisor_zh": "李四",
+  "supervisor_title_zh": "教授",
+  "supervisor_en": "Li Si",
+  "supervisor_title_en": "Professor",
+  "college_zh": "机械工程学院",
+  "college_en": "School of Mechanical Engineering",
+  "major_zh": "机械工程",
+  "major_en": "Mechanical Engineering",
+
+  "clc_code": "TP391",
+  "udc_code": "004.9",
+  "school_code": "10109",
+  "secret_level": "公开",
+
+  "cover_date_zh": "2026年5月",
+  "submit_date_zh": "2026年5月",
+  "defense_date_zh": "2026年6月",
+  "submit_date_en": "May, 2026",
+  "chair_zh": "王五",
+  "chair_title_zh": "教授"
+}
